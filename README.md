@@ -51,7 +51,7 @@ class AwsEncryptionTest {
         String keyId = args[0]; // id of the KMS key created in KMS UI
         String data = args[1]; // data to encrypt
 
-        // initialize AWS Encryption framework, algorithm defaults to AWS GCM 256bit
+        // initialize AWS Encryption framework, algorithm defaults to AES GCM 256bit
         AwsCrypto crypto = new AwsCrypto();
 
         // set up YC KMS provider
