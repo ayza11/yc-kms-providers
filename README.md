@@ -81,4 +81,4 @@ class AwsEncryptionTest {
 непосредственно KMS здесь используется исключительно для шифрования ключа шифрования данных (256bit). Схожим образом
 могут быть зашифрованы данные, отправляемые в Yandex Object Storage и другие облачные хранилища.
 Скрипты для сборки и запуска данного примера можно найти в публичном репозитории 
-[YC KMS providers]((https://github.com/ayza11/yc-kms-providers)) в директории `src/examples`. 
+[YC KMS providers](https://github.com/ayza11/yc-kms-providers) в директории `src/examples`. 
