@@ -17,7 +17,7 @@
         <lombok.version>1.18.8</lombok.version>
         <jackson.version>2.13.4.1</jackson.version>
         <httpclient.version>4.5.10</httpclient.version>
-        <commons-io.version>2.6</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
     </properties>
 
     <dependencies>
